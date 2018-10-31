@@ -44,8 +44,7 @@ $( window ).load(function() {
 
 
 
-
-
+	
 
 
     $('.pix-countdown').each(function(){
